@@ -1,0 +1,15 @@
+C:\Users\jezie\desktop\apiwebteste\SerieParaMalharStart\SerieParaMalharStart.Algoritmo30\bin\Debug\net6.0\SerieParaMalharStart.Algoritmo30.exe
+C:\Users\jezie\desktop\apiwebteste\SerieParaMalharStart\SerieParaMalharStart.Algoritmo30\bin\Debug\net6.0\SerieParaMalharStart.Algoritmo30.deps.json
+C:\Users\jezie\desktop\apiwebteste\SerieParaMalharStart\SerieParaMalharStart.Algoritmo30\bin\Debug\net6.0\SerieParaMalharStart.Algoritmo30.runtimeconfig.json
+C:\Users\jezie\desktop\apiwebteste\SerieParaMalharStart\SerieParaMalharStart.Algoritmo30\bin\Debug\net6.0\SerieParaMalharStart.Algoritmo30.dll
+C:\Users\jezie\desktop\apiwebteste\SerieParaMalharStart\SerieParaMalharStart.Algoritmo30\bin\Debug\net6.0\SerieParaMalharStart.Algoritmo30.pdb
+C:\Users\jezie\desktop\apiwebteste\SerieParaMalharStart\SerieParaMalharStart.Algoritmo30\obj\Debug\net6.0\SerieParaMalharStart.Algoritmo30.csproj.AssemblyReference.cache
+C:\Users\jezie\desktop\apiwebteste\SerieParaMalharStart\SerieParaMalharStart.Algoritmo30\obj\Debug\net6.0\SerieParaMalharStart.Algoritmo30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jezie\desktop\apiwebteste\SerieParaMalharStart\SerieParaMalharStart.Algoritmo30\obj\Debug\net6.0\SerieParaMalharStart.Algoritmo30.AssemblyInfoInputs.cache
+C:\Users\jezie\desktop\apiwebteste\SerieParaMalharStart\SerieParaMalharStart.Algoritmo30\obj\Debug\net6.0\SerieParaMalharStart.Algoritmo30.AssemblyInfo.cs
+C:\Users\jezie\desktop\apiwebteste\SerieParaMalharStart\SerieParaMalharStart.Algoritmo30\obj\Debug\net6.0\SerieParaMalharStart.Algoritmo30.csproj.CoreCompileInputs.cache
+C:\Users\jezie\desktop\apiwebteste\SerieParaMalharStart\SerieParaMalharStart.Algoritmo30\obj\Debug\net6.0\SerieParaMalharStart.Algoritmo30.dll
+C:\Users\jezie\desktop\apiwebteste\SerieParaMalharStart\SerieParaMalharStart.Algoritmo30\obj\Debug\net6.0\refint\SerieParaMalharStart.Algoritmo30.dll
+C:\Users\jezie\desktop\apiwebteste\SerieParaMalharStart\SerieParaMalharStart.Algoritmo30\obj\Debug\net6.0\SerieParaMalharStart.Algoritmo30.pdb
+C:\Users\jezie\desktop\apiwebteste\SerieParaMalharStart\SerieParaMalharStart.Algoritmo30\obj\Debug\net6.0\SerieParaMalharStart.Algoritmo30.genruntimeconfig.cache
+C:\Users\jezie\desktop\apiwebteste\SerieParaMalharStart\SerieParaMalharStart.Algoritmo30\obj\Debug\net6.0\ref\SerieParaMalharStart.Algoritmo30.dll
