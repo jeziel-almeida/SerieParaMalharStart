@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieParaMalharStart.Algori
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieParaMalharStart.Algoritmo33", "SerieParaMalharStart.Algoritmo33\SerieParaMalharStart.Algoritmo33.csproj", "{7E8E112C-CCE8-40AC-A11F-8174E35F12E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerieParaMalharStart.VoeAirlines", "SerieParaMalharStart.VoeAirlines\SerieParaMalharStart.VoeAirlines.csproj", "{6D4C7EC8-15DA-4F94-994F-116669CFC9CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{7E8E112C-CCE8-40AC-A11F-8174E35F12E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E8E112C-CCE8-40AC-A11F-8174E35F12E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E8E112C-CCE8-40AC-A11F-8174E35F12E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4C7EC8-15DA-4F94-994F-116669CFC9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4C7EC8-15DA-4F94-994F-116669CFC9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4C7EC8-15DA-4F94-994F-116669CFC9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4C7EC8-15DA-4F94-994F-116669CFC9CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
